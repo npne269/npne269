@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @npne269
+- 👋 Hi, I’m Nitesh Neupane.
 - 👀 I’m interested in frontend and backend
-- 🌱 I’m currently learning django, flutter, react.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning django and flutter.
+<!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me https://twitter.com/sudo_nitesh
 
 <!---
