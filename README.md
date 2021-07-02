@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitesh Neupane.
 - 👀 I’m interested in frontend and backend
-- 🌱 I’m currently learning django and flutter.
+- 🌱 I’m currently learning django, laravel and flutter.
 - 📫 How to reach me https://twitter.com/sudo_nitesh
 <!--- 💞️ I’m looking to collaborate on ...--->
 
